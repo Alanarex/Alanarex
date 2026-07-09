@@ -1,0 +1,71 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg
+    version="1.0"
+    xmlns="http://www.w3.org/2000/svg"
+    width="1254.000000pt"
+    height="1254.000000pt"
+    viewBox="0 0 1254.000000 1254.000000"
+    preserveAspectRatio="xMidYMid meet"
+>
+    <g
+        transform="translate(0.000000,1254.000000) scale(0.100000,-0.100000)"
+        stroke="none"
+    >
+        <defs>
+            <!-- Original combined top shape -->
+            <path
+                id="top-shape"
+                d="M6104 10249 c-36 -74 -217 -431 -401 -794 -184 -363 -434 -856 -555
+-1095 -254 -500 -391 -771 -669 -1310 -108 -212 -278 -544 -377 -737 l-179
+-353 2392 0 2392 0 33 63 c53 100 355 658 450 832 48 88 204 374 346 635 142
+261 347 637 455 835 l196 360 -391 3 c-304 2 -393 -1 -402 -10 -6 -7 -130
+-238 -275 -513 -694 -1318 -923 -1745 -930 -1737 -3 4 -97 185 -209 402 -111
+217 -242 472 -290 565 -146 284 -355 695 -615 1210 -317 628 -897 1769 -901
+1774 -1 2 -33 -57 -70 -130z"
+            />
+
+            <!-- Left/top A triangle area -->
+            <clipPath id="clip-top-triangle">
+                <polygon points="0,12540 0,0 8185,0 8185,12540" />
+            </clipPath>
+
+            <!-- Right upper K area -->
+            <clipPath id="clip-top-k">
+                <polygon points="8185,0 12540,0 12540,12540 8185,12540" />
+            </clipPath>
+        </defs>
+
+        <!-- Top A triangle -->
+        <use
+            href="#top-shape"
+            clip-path="url(#clip-top-triangle)"
+            fill="#1e2b3c"
+        />
+
+        <!-- Upper K stroke -->
+        <use
+            href="#top-shape"
+            clip-path="url(#clip-top-k)"
+            fill="#1264e2"
+        />
+
+        <!-- Lower K stroke -->
+        <path
+            fill="#1e2b3c"
+            d="M8130 5277 c-245 -226 -446 -414 -448 -418 -2 -4 75 -157 171 -341
+227 -434 456 -877 771 -1488 l255 -495 655 -3 c361 -1 656 0 656 3 0 8 -196
+398 -400 795 -103 201 -342 667 -530 1035 -458 896 -671 1309 -679 1316 -3 4
+-206 -178 -451 -404z"
+        />
+
+        <!-- Bottom A body -->
+        <path
+            fill="#1e2b3c"
+            d="M3744 5568 c-39 -78 -721 -1423 -1156 -2281 -209 -412 -378 -751
+-375 -753 2 -2 1345 -3 2985 -2 l2980 3 -187 360 c-242 466 -593 1141 -765
+1470 -75 143 -252 484 -393 757 l-258 497 -1402 1 -1403 0 -26 -52z"
+        />
+    </g>
+</svg>
