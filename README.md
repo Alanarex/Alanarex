@@ -12,75 +12,73 @@
 
 Born and raised in Lebanon 🇱🇧, and working in France 🇫🇷 every day.
 
-I build web apps, dashboards, and APIs that stay practical, clean, and easy to maintain.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa_Khalil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-khalil-dev)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alaa.khalil.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alaakhalil.dev-D7263D?style=for-the-badge)](https://alaakhalil.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa_Khalil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-khalil-dev)
 
 </div>
 
 ---
-
-<div align="center">
 
 ## About me
 
-I like turning a messy idea into something simple to use and solid behind the scenes.
+I design and evolve business web applications, from scoping to production. After almost three years of work-study, I rely on a solid back end (REST APIs, SQL optimisation, security, automated tests), a Vue.js front end and a DevOps mindset (Docker, CI/CD).
 
-Most of my work is around Laravel apps, APIs, dashboards, permissions, data handling, testing, and deployment.
+My background in web and digital project management also lets me frame a need, break it down, prioritise and deliver with the team.
 
-</div>
+## What I do
 
----
+- **Full-stack development**: PHP, Laravel, Vue.js, REST APIs, authentication and RBAC.
+- **Quality**: PHPUnit, Playwright, code reviews, Sentry, GitLab CI/CD.
+- **Project delivery**: analysis, scoping, roadmap, backlog and release.
 
-<div align="center">
+## Experience
+
+| Period | Role |
+| --- | --- |
+| Dec. 2024 – today | Co-founder, [REVESTA](https://www.revesta.fr/) |
+| Jun. 2025 – today | Co-founder, CoJeCo (Collectif des jeunes connectés) |
+| Nov. 2023 – Aug. 2024 | IT assistant & web developer (work-study), Open Campus Angers |
 
 ## Tech stack
 
-### Back-End
+**Back end & data**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,express,mysql,mariadb,postgres,sqlite" alt="Back end and data" />
 
-### Front-End
+**Front end**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,js,ts,react,html,css,sass,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=vue,js,ts,react,html,css,sass,bootstrap" alt="Front end" />
 
-### DevOps & Tools
+**DevOps & tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,linux,postman,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,githubactions,jenkins,redis,rabbitmq,kafka,sentry,vite" alt="DevOps and tools" />
 
-### Testing & Quality
+**Testing & quality**: PHPUnit, Playwright, JUnit, Mockito, PHPStan/Larastan, Laravel Pint, Postman.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress,phpstorm,githubactions,sentry,vite" />
-</p>
+**Also**: Unity, C#, Blender.
 
-</div>
+## Public projects
 
----
+My main projects are in private repositories; case studies are on my [portfolio](https://alaakhalil.dev).
 
-<div align="center">
+- [**portfolio**](https://github.com/Alanarex/portfolio): Laravel portfolio, bilingual FR/EN.
+- [**EduConnect**](https://github.com/Alanarex/EduConnect): JavaScript application project.
 
-## Repositories
+## Education & certifications
 
-[See all repositories](https://github.com/Alanarex?tab=repositories)
+- **Web & Digital Project Manager**, RNCP level 7, MyDigitalSchool (2024–2026)
+- **Bachelor Application Designer & Developer**, Open Campus (2023–2024)
+- **TOEIC 940**, May 2026
+- **Unity Junior Programmer**, Unity, June 2023 ([verify](https://www.credly.com/badges/3212a7dd-3e83-42bd-ac55-9c7e3274e178/linked_in_profile))
 
-</div>
+**Languages**: French (bilingual), English (B2, TOEIC 940), Arabic (native).
 
 ---
 
 <div align="center">
 
-### Connect with me
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-alaakhalil.dev-D7263D?style=for-the-badge)](https://alaakhalil.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-khalil-dev)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alanarex)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaa.khalil.dev@gmail.com)
 
 </div>
